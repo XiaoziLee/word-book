@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as p,d as t}from"./app.85712a8f.js";const _=JSON.parse('{"title":"\u516D\u7EA7100\u8BCD","description":"","frontmatter":{},"headers":[],"relativePath":"words/words1.md"}'),c={name:"words/words1.md"},l=t("",36),u=[l];function n(b,a,r,s,i,k){return p(),e("div",null,u)}var d=o(c,[["render",n]]);export{_ as __pageData,d as default};
