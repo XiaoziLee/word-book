@@ -1,0 +1,17 @@
+{
+  "name": "word-book",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:XiaoziLee/word-book.git",
+  "author": "XiaoziLee <2415358701@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs --port 80"
+  }
+}
